@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/marcosjuarez/Documents/personal/Competitiva/PracticaCompetitiva/AgoDic2024/CF_HitLottery'
+relocations:
+  - { offset: 0x16CB7, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x64BD3, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x16F5B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x248, symBinAddr: 0x100003DAC, symSize: 0x60 }
+  - { offset: 0x16F79, size: 0x8, addend: 0x0, symName: __Z5solvev, symObjAddr: 0x1FC, symBinAddr: 0x100003D60, symSize: 0x4C }
+  - { offset: 0x16FAB, size: 0x8, addend: 0x0, symName: __Z8minBillsi, symObjAddr: 0x0, symBinAddr: 0x100003B64, symSize: 0x1FC }
+...

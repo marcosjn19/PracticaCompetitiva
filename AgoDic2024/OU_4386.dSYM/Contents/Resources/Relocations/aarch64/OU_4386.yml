@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/marcosjuarez/Documents/personal/Competitiva/PracticaCompetitiva/AgoDic2024/OU_4386'
+relocations:
+  - { offset: 0x16CB7, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x648E5, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x16F5B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x40, symBinAddr: 0x100003DA0, symSize: 0x94 }
+  - { offset: 0x16F8D, size: 0x8, addend: 0x0, symName: __Z5solvei, symObjAddr: 0x0, symBinAddr: 0x100003D60, symSize: 0x40 }
+...
